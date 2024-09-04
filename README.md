@@ -29,8 +29,8 @@ After creating ROLES, we will move on to create DEPARTMENTS...Departments basica
 ![dept](https://github.com/user-attachments/assets/6880fe9c-bd25-4acb-9881-f5f859dafc9a)
 <h2>Configure Teams
 Admin Panel -> Agents -> Teams
-Level I Support
-Level II Support
+ -Level I Support
+ -Level II Support
 
 
 - Item 2
