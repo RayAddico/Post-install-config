@@ -18,7 +18,21 @@ walkthrough for configuring osTicket after installation
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
+- (Post Installation Setup)
+  <h2>Configure Roles
+  
+Roles determine the permissions agents have within specific departments. These permissions can be customized, and agents can be assigned multiple roles. An unlimited number of roles can be created, providing flexible control over agents' access and responsibilities.
+- a)Admin Panel  -> Agents-> Role   ->    b)Supreme Admin
+  ![role2](https://github.com/user-attachments/assets/f3c10637-622e-42e0-9469-ec80b9168255)
+After creating ROLES, we will move on to create DEPARTMENTS...Departments basically outlines the key details, roles, and permissions within each department, ensuring agents have the necessary access and responsibilities to perform their tasks effectively.
+       Admin Panel -> Agents -> Departments  -> b)System Administrators
+![dept](https://github.com/user-attachments/assets/6880fe9c-bd25-4acb-9881-f5f859dafc9a)
+<h2>Configure Teams
+Admin Panel -> Agents -> Teams
+Level I Support
+Level II Support
+
+
 - Item 2
 - Item 3
 - Item 4
